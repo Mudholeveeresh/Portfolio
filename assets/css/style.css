@@ -282,7 +282,7 @@ h6 {
 
 #home:before {
   content: "";
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(200, 200, 200, 0.7);
   position: absolute;
   bottom: 0;
   top: 0;
